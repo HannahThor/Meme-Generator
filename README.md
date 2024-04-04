@@ -1,6 +1,6 @@
 # Meme-Generator
 
-<img src="./public/huh.jpg"/>
+<img src="./public/meme.jpg"/>
 
 This project is inspired by a Scrimba project that I made alongside the Learn React Course which I've found a great tool for learning the basics. Link below:
 https://scrimba.com/learn/learnreact
