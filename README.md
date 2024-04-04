@@ -1,9 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Meme-Generator
+
+This project is inspired by a Scrimba project that I made alongside the Learn React Course which I've found a great tool for learning the basics. Link below:
+https://scrimba.com/learn/learnreact
+
+Using React + Vite and Memes API https://api.imgflip.com/get_memes
+
+## Features
+
+- get new Meme image
+- add text to the top and bottom of the image
